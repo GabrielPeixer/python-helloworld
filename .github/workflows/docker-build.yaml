@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: https://github.com/GabrielPeixer/python-helloworld:latest
+          tags: GabrielPeixer/python-helloworld:latest
